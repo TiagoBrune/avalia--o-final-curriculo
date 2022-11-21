@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(136, 140, 138);
+}
+
+.div1 {
+    display: flex;
+    position: absolute;
+    left: 0px;
+    top: 0px;  
+   background-color: rgb(104, 104, 104);
+   width: 300px;
+   height: 1200px;
+   }
+   
+   img {
+    position: absolute;
+    left: 5%;
+    bottom: 400px;
+    top: 85px;
+    border-radius: 50%;
+   }
+
+   ol {
+    font-weight: bold;
+    line-height: 39px;
+    position: absolute;
+    bottom: 620px;
+    left: 15px;
+    text-align: center;
+    font-size:x-large;
+    
+   }
+   a {
+    color: rgb(50, 48, 48);
+    text-decoration: none;
+   }
+   a:hover {
+    color: rgba(197, 197, 65, 0.942);
+   }
+
+   .div2 {
+    font-size: x-large;
+    display: inline;
+    position: absolute;
+    line-height: 35px;
+    font-weight:lighter;
+    right: 50px;
+    left: 350px;
+    top: 70px;  
+   }
